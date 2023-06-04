@@ -1,5 +1,5 @@
-ThreeJS
-React
-NodeJS
-FramerMotion
+ThreeJS,
+React,
+NodeJS,
+FramerMotion,
 OpenAI
